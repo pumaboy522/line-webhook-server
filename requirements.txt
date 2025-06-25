@@ -1,2 +1,5 @@
-flask==2.3.3 line-bot-sdk==3.5.0 requests==2.31.0 gunicorn==21.2.0  
-# 如果您在生產環 境使用 Gunicorn
+flask==2.3.3 
+line-bot-sdk==3.5.0 
+requests==2.31.0 
+gunicorn==21.2.0  
+# 如果您在生產環境使用 Gunicorn
